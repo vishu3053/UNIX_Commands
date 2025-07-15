@@ -1,0 +1,3 @@
+[INFO] System started
+[ERROR] File not found
+[INFO] Job complete
