@@ -32,7 +32,7 @@ Welcome to your one-stop repository to revise, practice, and master essential UN
 ## 👨‍💻 Author
 
 Made with 💻 and ☕ by **Vishwash Patel**  
-🔗 [Connect on LinkedIn](https://www.linkedin.com)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/vishu3053/)
 
 ---
 
